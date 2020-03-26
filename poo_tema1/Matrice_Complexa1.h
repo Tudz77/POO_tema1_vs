@@ -1,6 +1,6 @@
-#pragma once
 #ifndef MATRICE_COMPLEXA_H
 #define MATRICE_COMPLEXA_H
+
 #include <iostream>
 #include <cstring>
 #include <stdexcept>
